@@ -110,8 +110,8 @@ public class CRFVoter {
 		else
 			FileUtils.writeStringToFile(new File(commandLine.getOptionValue(OUTPUT_OPTION)), sb.toString());
 		
-//		Paths.get(PreProcessor.outputPath).toFile().delete();
-//		Paths.get(PreProcessor.crfvoterInputFile).toFile().delete();
+		Paths.get(PreProcessor.outputPath).toFile().delete();
+		Paths.get(PreProcessor.crfvoterInputFile).toFile().delete();
 	}
 	
 	public static List<List<String>> getWords(String file) throws IOException{
