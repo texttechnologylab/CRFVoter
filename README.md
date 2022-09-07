@@ -1,6 +1,5 @@
 [![version](https://img.shields.io/github/license/texttechnologylab/CRFVoter)]()
 [![](https://jitpack.io/v/texttechnologylab/CRFVoter.svg)](https://jitpack.io/#texttechnologylab/CRFVoter)
-
 [![Paper](http://img.shields.io/badge/paper-Journal_of_Cheminformatics-B31B1B.svg)](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-019-0343-x.pdf)
 
 # CRFVoter
